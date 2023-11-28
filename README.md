@@ -6,7 +6,6 @@
 <Br>
 <h1>About Me! 😎</h1>
   
-- 🌱: I’m currently learning Python. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - ⚡  Fun fact: I play Piano! 🎹
   
